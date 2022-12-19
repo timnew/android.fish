@@ -11,7 +11,7 @@ Install Android SDK, and expose adb into the terminal
 With [fisherman]
 
 ```fish
-$ fisher add timnew/android.fish
+$ fisher install timnew/android.fish
 ```
 
 Hope you have a _fast_ swim!
